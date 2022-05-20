@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/aldijoko/nft-preview-card-component-main)
-- Live Site URL: [Add live site URL here](https://aldijoko.github.io/nft-preview-card-component-main/)
+- Solution URL: [Github](https://github.com/aldijoko/nft-preview-card-component-main)
+- Live Site URL: [Live Site](https://aldijoko.github.io/nft-preview-card-component-main/)
 
 ## My process
 
