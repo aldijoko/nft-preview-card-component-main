@@ -15,13 +15,13 @@ body {
 
 .nft {
     background-color: hsl(216, 50%, 16%);
-    box-shadow: 0 1px 1px 0 hsl(220, 15%, 55%);
+    /* box-shadow: 1px hsl(220, 15%, 55%); */
     border-radius: 10px;
     max-width: 350px;
     display: flex;
     flex-direction: column;
     /* align-items: center; */
-    margin-top: 15%;
+    margin-top: 10%;
     padding: 15px 10px;
     
 }
@@ -82,6 +82,17 @@ body {
     border-bottom: 2px solid hsl(215, 32%, 27%);
 }
 
+.title {
+    text-align: left;
+    font-weight: 600;
+    font-size: 20px;
+    color: hsl(0, 0%, 100%);
+}
+
+.title:hover {
+    color: hsl(178, 100%, 50%);
+    cursor: pointer;
+}
 
 .eth {
     color: hsl(178, 100%, 50%);
@@ -120,12 +131,12 @@ body {
 }
 
 
-h1 {
+/* h1 {
     text-align: left;
     font-weight: 600;
     font-size: 20px;
     color: hsl(0, 0%, 100%);
-}
+} */
 
 p {
     font-size: 18px;
@@ -142,6 +153,7 @@ p {
     font-weight: 400;
     text-decoration: none;
 }
+
 .name a:hover {
     color: hsl(178, 100%, 50%);
 }
